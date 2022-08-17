@@ -5,3 +5,8 @@
 .borderImg{
     border-radius: 8px;border-top: 6px solid brown;border-right: 6px solid green;border-left: 6px solid yellow;border-bottom: 4px solid blue;
 }
+
+.container{
+    margin: 1rem;
+    padding: 1rem;
+}
