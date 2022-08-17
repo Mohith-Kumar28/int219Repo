@@ -3,10 +3,13 @@
 }
 
 .borderImg{
-    border-radius: 8px;border-top: 6px solid brown;border-right: 6px solid green;border-left: 6px solid yellow;border-bottom: 4px solid blue;
+    border-radius: 1000px;border-top: 6px solid brown;border-right: 6px solid green;border-left: 6px solid yellow;border-bottom: 4px solid blue;
 }
 
 .container{
-    margin: 1rem;
+    display: flex;
+    border: dotted orangered;
+    justify-content: center;
     padding: 1rem;
+    margin: 1rem;
 }
